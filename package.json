@@ -1,6 +1,6 @@
 {
   "name": "passport-aol-oauth",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "AOL OAuth 2.0 authentication strategies for Passport.",
   "author": { "name": "Jeff Rodenburg", "email": "jeff.rodenburg@gmail.com" },
   "repository": {
